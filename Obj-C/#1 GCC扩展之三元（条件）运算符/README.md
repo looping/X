@@ -31,4 +31,4 @@ a = b or c
 
 ***
 
-[全文完－欢迎提问，别不好意思啊！]
+[全文完－欢迎[提问](https://github.com/looping/X/issues/new)，别不好意思啊！]
