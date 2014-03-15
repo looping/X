@@ -1,4 +1,4 @@
-#三元（条件）运算符 (The ternary operator)
+#GCC扩展之三元（条件）运算符
 
 三元运算符已经够神奇了，但更神奇的是，它还有缺省值：
 
@@ -22,14 +22,12 @@ NSLog(@"%@", (string ? : (string = @"The new string!"))); // It is a string.
 a = b or c
 ```
 
-
-
 ###参考
 * [GUN-GCC](http://gcc.gnu.org/onlinedocs/gcc/Conditionals.html#Conditionals)
 * [NSHipster](http://nshipster.com/new-years-2014)
 * [StackoverFlow](http://stackoverflow.com/questions/8760561/is-this-ternary-conditional-correct-objective-c-syntax)
 * [WiKiPedia](http://en.wikipedia.org/wiki/%3F%3A#C)
-
+* [LLVM Clang](http://clang.llvm.org/features.html#gcccompat)
 
 ***
 
