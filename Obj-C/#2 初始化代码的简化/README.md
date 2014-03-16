@@ -8,7 +8,7 @@
 //
 NSString *string = @""; //最常见了
 //
-NSNumber *magicNumber = @2014; //还有很多 如@1.0，@a，具体见参考
+NSNumber *magicNumber = @2014; //还有很多 如@1.0f，@'a'，具体见参考
 //
 NSInteger number = 2014;
 NSNumber *magicNumber2 = @(number); //这个很好用
