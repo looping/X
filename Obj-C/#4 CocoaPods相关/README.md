@@ -41,7 +41,7 @@ end
 pod update
 ```
 
-几分钟后，看到有绿色的`Installing ProjectName`出现，说明即将大功告成。
+几分钟后，看到有绿色的 '[!] From now on use `ProjectName.xcworkspace`.' 出现，说明即将大功告成。
 
 当然，这是最简单的配置方法，如果你有依赖库或要完成其他什么需求的，请参考[Private Cocoapods](http://guides.cocoapods.org/making/private-cocoapods.html)。
 
